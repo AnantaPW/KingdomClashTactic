@@ -1,0 +1,21 @@
+WASD ----> Move Hover
+E -------> Select Unit
+LMB -----> Select Action
+RMB -----> Cancel Action
+
+
+
+Unit Info
+
+Warrior:
+Skill = damage + 50 for 1 turn
+
+Knight:
+Skill = defense + 20 and HP + 50% for 1 turn
+------ 	after that hp / 2
+
+Sage :
+Skill = heal selected unit (hp + 20)
+
+Archer :
+Skill = attack + 20 and range attack + 2 for 3 turn
